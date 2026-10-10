@@ -1,0 +1,6 @@
+{
+  "name": "隨時禱告 PRAY ANYTIME",
+  "description": "當你不知道該怎麼辦，先來禱告。自動搜尋聖經金句、中英·德·西多語對照、經典詩歌讚美之泉與溫暖親切真人發音。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
